@@ -42,7 +42,6 @@ Numpy Kütüphanesinin Öğretilmesinin içeriği Şu Şekildedir:
 -   NumPydan farklı olarak farklı tipler olabilmektedir.
 -   Temeli 2008 yılında atılmıştır
 -   R DataFrame yapısını Python dünyasına taşımış ve DataFramer'ler üzerinde hızlı ve etkili çalışabilme imkanı sağlamıştır.
-- 
 > Kütüphaneyi kullanmak için sadece import etmemiz gerekmektedir. Aşağıdaki ifade de **Pandas** kütüphanesini **pd** kısayolu ile programımıza dahil etmiş olduk.
 
     import pandas as pd
