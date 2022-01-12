@@ -57,4 +57,17 @@ Pandas Kütüphanesinin Öğretilmesinin içeriği Şu Şekildedir:
  - [ ] Gruplama & Toplulaştırma İşlemleri (Groupin & Aggregation)
  - [ ] İleri Toplulaştırma İşlemleri (Aggregate, filter, transform, apply)
  - [ ] Dış Kaynaklı Veri Okuma
+ 
+# Yapay Sinir Ağı Modeli Oluşturma
 
+ - [ ] dosyadan veriseti okuma
+ - [ ] Verilerin görselleştirilmesi
+ - [ ] Korelasyon ilişkisi
+ - [ ] Yapay sinir ağı modeli
+ - [ ] Kategorik değerlerin sayısal değerlere döndürüllmesi
+ - [ ] Verinin düzenlenmesi
+ - [ ] Sinir ağı modelinin oluşturulması
+ - [ ] Oluşturulan modelin eğitimi
+ - [ ] Veri tahmin ve doğruluk işlemleri
+ - [ ] Sonuçların görselleştirilmesi
+ - [ ] Modelin kkaydedilmesi
